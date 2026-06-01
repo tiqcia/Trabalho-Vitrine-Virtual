@@ -1,0 +1,50 @@
+.navbar-custom {
+    background-color: #730707;
+}
+
+.brand-text {
+    color: #FFFBD0 !important; 
+    font-size: 1.5rem; 
+    font-weight: bold;
+}
+
+.offcanvas {
+    background-color: #730707 !important; 
+}
+
+.offcanvas-title {
+    color: #FFFBD0 !important;
+}
+
+.nav-container {
+    margin-left: auto;
+    align-items: center;
+}
+
+.nav-link-custom {
+    color: #FFFBD0 !important;
+}
+
+.link-container {
+    text-decoration: none;
+}
+
+.btn-cadastro {
+    width: 100%;
+    background-color: #FFFBD0 !important;
+    color: #730707 !important;
+    border: none !important;
+    font-weight: bold;
+    padding: 8px 20px;
+}
+
+@media (min-width: 992px) {
+    .btn-cadastro {
+        width: auto;
+        margin-left: 15px;
+    }
+    
+    .link-container {
+        margin-left: 15px;
+    }
+}

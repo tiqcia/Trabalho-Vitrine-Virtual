@@ -1,0 +1,27 @@
+.btn-salvar {
+  background-color: #730707 !important;
+  border: none !important; 
+  width: 100%;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.btn-salvar:hover {
+  background-color: #a31515;
+}
+
+.titulo-cadastro {
+  color: #730707;
+  margin-bottom: 20px;
+}
+
+.bg-cadastro-tela {
+  min-height: 100vh;
+  background-color: #E6DBDA; 
+}
+
+.card-cadastro {
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto; 
+}

@@ -1,0 +1,23 @@
+.detalhes-bg {
+    background-color: #E6DBDA; 
+    min-height: 100vh;
+    padding-top: 20px;
+}
+
+.btn-add-carrinho {
+    background-color: #730707 !important; 
+    border-color: #730707 !important;
+    color: #FFFBD0 !important;
+    font-weight: bold;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-add-carrinho:hover {
+    background-color: #5a0505 !important; 
+}
+
+.preco-produto {
+    color: #730707;
+    font-weight: bold;
+}
